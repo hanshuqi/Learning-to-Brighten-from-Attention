@@ -8,6 +8,7 @@
 - Results of models trained on the LOL-syn dataset on LIME, NPE, MEF, DICM, and VV datasets can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1p6CkkTkw0EmwQy2IM6M_Ns_jXGlW4q-U?usp=sharing)
 
 
+&nbsp;
 
 <details close>
 <summary><b>Performance on LOL-real, LOL-syn, SID and SMID:</b></summary>
