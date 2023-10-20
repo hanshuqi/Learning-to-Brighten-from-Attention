@@ -32,3 +32,13 @@
 <summary><b>Performance of models trained on the LOL-syn dataset on LIME, NPE, MEF, DICM, and VV:</b></summary>
 
 ![results3](./results/3.png)
+
+## Test
+
+If you want to test the model, just run like this (you can specify your image path)
+```
+python test.py --device cuda  --testDir 'D:/hsq/exp/datasets/LOL_v2/Real_captured'  --resultDir './results/real' --ckptDir './ckpt/LOL-real.pk'
+```
+
+Enhance results will be saved in *./demo/output* if `output_path` is not specified!
+
