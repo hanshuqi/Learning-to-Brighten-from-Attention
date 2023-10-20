@@ -32,10 +32,8 @@
 <summary><b>Performance of models trained on the LOL-syn dataset on LIME, NPE, MEF, DICM, and VV:</b></summary>
 
 ![results3](./results/3.png)
-</details>
 
 
-<details close>
 &nbsp;
 
 ##  Test
