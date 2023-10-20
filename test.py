@@ -14,9 +14,9 @@ from data_loader import PairLoader
 parser = argparse.ArgumentParser()
 parser.add_argument("--device", type=str, default='cuda', help="using GPU")
 parser.add_argument("--testBatchSize", type=int, default=1, help="testing batch size")
-parser.add_argument("--testDir", type=str, required=False, default='D:/hsq/exp/datasets/LOL_v2/Real_captured', help="path to test set")
-parser.add_argument("--resultDir", type=str, default='./results/LOL-real', help="path to result")
-parser.add_argument("--ckptDir", type=str, default='./LOL-real.pk', help="path to checkpoint")
+parser.add_argument("--testDir", type=str, required=True, default='', help="path to test set")
+parser.add_argument("--resultDir", type=str, default='', help="path to result")
+parser.add_argument("--ckptDir", type=str, default='', help="path to checkpoint")
 opt = parser.parse_args()
 
 def gaussian(window_size, sigma):
