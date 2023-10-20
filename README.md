@@ -44,5 +44,5 @@ If you want to test the model, just run like this (you can specify your image pa
 python test.py --device cuda  --testDir your_path  --resultDir ./results/ --ckptDir './ckpt/LOL-real.pk'
 ```
 
-Enhance results will be saved in *./reaults/ if `resultDir` is not specified!
+Enhance results will be saved in */reaults/ if `resultDir` is not specified!
 
