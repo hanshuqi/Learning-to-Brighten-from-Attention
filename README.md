@@ -33,6 +33,7 @@
 
 ![results3](./results/3.png)
 
+</details>
 
 &nbsp;
 
