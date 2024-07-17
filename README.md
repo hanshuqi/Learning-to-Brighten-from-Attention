@@ -13,8 +13,8 @@
 <details close>
 <summary><b>Performance on LOL-real, LOL-syn, SID and SMID:</b></summary>
 
-![results1](./1_1.png)
-![results1](./1_2.png)
+![results1](https://github.com/hanshuqi/Learning-to-Brighten-from-Attention/blob/main/1_1.png)
+![results1](https://github.com/hanshuqi/Learning-to-Brighten-from-Attention/blob/main/1_2.png)
 
 </details>
 
@@ -22,8 +22,8 @@
 <details close>
 <summary><b>Performance of models trained on the LOL-real dataset on LIME, NPE, MEF, DICM, and VV:</b></summary>
 
-![results2](./2_1.png)
-![results1](./2_2.png)
+![results2](https://github.com/hanshuqi/Learning-to-Brighten-from-Attention/blob/main/2_1.png)
+![results2](https://github.com/hanshuqi/Learning-to-Brighten-from-Attention/blob/main/2_2.png)
 
 </details>
 
@@ -31,8 +31,8 @@
 <details close>
 <summary><b>Performance of models trained on the LOL-syn dataset on LIME, NPE, MEF, DICM, and VV:</b></summary>
 
-![results2](./3_1.png)
-![results1](./3_2.png)
+![results3](https://github.com/hanshuqi/Learning-to-Brighten-from-Attention/blob/main/3_1.png)
+![results3](https://github.com/hanshuqi/Learning-to-Brighten-from-Attention/blob/main/3_2.png)
 
 </details>
 
