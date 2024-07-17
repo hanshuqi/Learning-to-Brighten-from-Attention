@@ -13,8 +13,8 @@
 <details close>
 <summary><b>Performance on LOL-real, LOL-syn, SID and SMID:</b></summary>
 
-![results1](./results/1.png)
-
+![results1](./results/1_1.png)
+![results1](./results/1_2.png)
 
 </details>
 
@@ -22,8 +22,8 @@
 <details close>
 <summary><b>Performance of models trained on the LOL-real dataset on LIME, NPE, MEF, DICM, and VV:</b></summary>
 
-![results2](./results/2.png)
-
+![results2](./results/2_1.png)
+![results1](./results/2_2.png)
 
 </details>
 
@@ -31,7 +31,8 @@
 <details close>
 <summary><b>Performance of models trained on the LOL-syn dataset on LIME, NPE, MEF, DICM, and VV:</b></summary>
 
-![results3](./results/3.png)
+![results2](./results/3_1.png)
+![results1](./results/3_2.png)
 
 </details>
 
